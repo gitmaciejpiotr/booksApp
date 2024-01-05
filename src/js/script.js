@@ -129,6 +129,6 @@ class BooksList {
   }
 }
 
-const app = new BooksList();
+new BooksList();
 
 
